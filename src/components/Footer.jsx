@@ -1,8 +1,7 @@
-import React from "react";
-import FacebookIcon from "../icons/FacebookIcon";
-import GitHubIcon from "../icons/GitHubIcon";
-import InstagramIcon from "../icons/InstagramIcon";
-import TwitterIcon from "../icons/TwitterIcon";
+import FacebookIcon from "../Icons/FacebookIcon";
+import GitHubIcon from "../Icons/GitHubIcon";
+import InstagramIcon from "../Icons/InstagramIcon";
+import TwitterIcon from "../Icons/TwitterIcon";
 
 const Footer = () => {
   return (
